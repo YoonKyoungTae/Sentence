@@ -1,8 +1,8 @@
 "use strict";
 
 var mysql = require('mysql');
-var config = require('./config.js');
-var error = require('./error/error.js');
+var config = require('../config.js');
+var error = require('../error/error.js');
 
 exports.insertUser = function (event, context, callback) {
 
