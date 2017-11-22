@@ -1,5 +1,5 @@
 .idea/
 **/lambda/config.js
-
-test1.js
-test2.js
+package.json
+package-lock.json
+Sentence.iml
